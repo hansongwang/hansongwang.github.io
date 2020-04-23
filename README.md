@@ -1,8 +1,6 @@
-# Move personal site to Github Page 
+# hansongwang.github.io
 
-New address on GitHub PAGE: [hansongwang.github.io](http://hansongwang.github.io)
+- Viist us on: [hansongwang.github.io](http://hansongwang.github.io)
 
+- Or: [hansongwang.com](http://hansongwang.com)
 
-## Reference:
-
-https://pages.github.com/
